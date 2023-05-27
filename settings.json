@@ -1,0 +1,56 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true,
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,    
+    "liveServer.settings.CustomBrowser": "chrome",
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "window.zoomLevel": 2,
+    "workbench.iconTheme": "symbols",
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "editor.fontVariations": false,
+    "eslint.workingDirectories": [
+        {"mode": "auto"}
+    ],
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.fixAll.eslint": true, 
+        "source.sortImports": true
+    },
+    "explorer.compactFolders": false,
+    // "editor.formatOnSave": true,
+    "[prisma]": {
+        "editor.formatOnSave": true
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.productIconTheme": "fluent-icons"
+}
